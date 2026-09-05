@@ -25,46 +25,32 @@ I enjoy taking an idea from scratch to a working project — from designing the 
 ## 🛠️ Tech Stack
 
 ### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ### AI / Data / Computer Vision
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ### Embedded / Robotics
-
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/Embedded-Systems-444444?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 ### Tools
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ---
 
 ## ⭐ Featured Projects
 
+The source implementations are organized in the [`projects`](./projects) directory:
+
 | Project | Area | Description |
 |---|---|---|
-| 🔥 **Forest Fire Detection** | AI / ML | Machine-learning project using SVM and Random Forest for fire detection. |
-| 🌱 **Smart Greenhouse** | IoT / Embedded | Automated greenhouse system using sensors, actuators and microcontrollers. |
-| 📡 **Arduino Radar** | Robotics / Embedded | Radar-style distance detection using Arduino and an ultrasonic sensor. |
-| 📊 **Data Mining** | Data Science | Data mining project focused on data processing and analysis. |
-| 🗑️ **Smart Trash Can** | Arduino / Robotics | Automatic trash can controlled using sensors and a servo motor. |
+| [🔥 Forest Fire Detection](./projects/forest-fire-detection) | AI / ML | SVM and Random Forest pipeline for environmental fire-risk classification. |
+| [🌱 Smart Greenhouse](./projects/smart-greenhouse) | IoT / Embedded | Temperature, humidity and soil-moisture based automation. |
+| [📡 Arduino Radar](./projects/arduino-radar) | Robotics / Embedded | Servo-scanned ultrasonic distance measurements over Serial. |
+| [📊 Data Mining](./projects/data-mining) | Data Science | Preprocessing, clustering and classification workflow. |
+| [🗑️ Smart Trash Can](./projects/smart-trash-can) | Arduino / Robotics | IR-triggered automatic lid using a servo motor. |
 
-> More projects will be added as they are cleaned up, documented and published.
+> These are fresh portfolio implementations reconstructed from the project concepts discussed, not the original lost source files.
 
 ---
 
@@ -79,15 +65,6 @@ I enjoy taking an idea from scratch to a working project — from designing the 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadhesamnomiri&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhesamnomiri&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Contact
 
 - GitHub: [@mohammadhesamnomiri](https://github.com/mohammadhesamnomiri)
@@ -95,6 +72,4 @@ I enjoy taking an idea from scratch to a working project — from designing the 
 
 ---
 
-<p align="center">
-  <i>Building things, learning every day, and turning ideas into working projects.</i>
-</p>
+<p align="center"><i>Building things, learning every day, and turning ideas into working projects.</i></p>
