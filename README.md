@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Hesam Noumiri 👋
+# Hi, I'm Mohammad Hesam Nomiri 👋
 
 ### Python Developer | AI/ML | Computer Vision | Robotics & Embedded Systems
 
